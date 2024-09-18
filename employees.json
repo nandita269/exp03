@@ -1,0 +1,38 @@
+[
+   {
+      "id": 1,
+      "name": "Ayushi",
+      "salary": 50000
+   },
+   {
+      "id": 2,
+      "name": "Sohail",
+      "salary": 60000
+   },
+   {
+      "id": 3,
+      "name": "Champ",
+      "salary": 70000
+   },
+   {
+      "name": "Vicky Kumar singh",
+      "salary": 50000
+   },
+   {
+      "name": "vicky",
+      "salary": 69999
+   },
+   {
+      "name": "Vicky Kumar singh",
+      "salary": 5000
+   },
+   {
+      "name": "Aman",
+      "salary": 50000
+   },
+   {
+      "name": "Admin",
+      "salary": 10000,
+      "add": "hajipur"
+   }
+]
